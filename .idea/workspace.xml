@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9955cbf-de1d-4d33-bea2-ad817d56d3ba" name="Changes" comment="" />
+    <list default="true" id="f9955cbf-de1d-4d33-bea2-ad817d56d3ba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kartochki/Ilya.html" beforeDir="false" afterPath="$PROJECT_DIR$/kartochki/Ilya.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kartochki/JENYA.html" beforeDir="false" afterPath="$PROJECT_DIR$/kartochki/JENYA.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kartochki/liza.html" beforeDir="false" afterPath="$PROJECT_DIR$/kartochki/liza.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +49,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\my_university_group" />
+      <recent name="C:\Users\user\WebstormProjects\my_university_group\kartochki" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -58,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1750082768438</updated>
-      <workItem from="1750082771093" duration="4405000" />
+      <workItem from="1750082771093" duration="5752000" />
     </task>
     <servers />
   </component>
@@ -70,7 +81,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="xflame0xx" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
