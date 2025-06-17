@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9955cbf-de1d-4d33-bea2-ad817d56d3ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kartochki/Ilya.html" beforeDir="false" afterPath="$PROJECT_DIR$/kartochki/Ilya.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kartochki/Ilya.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/profiles/Ilya.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kartochki/JENYA.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/profiles/JENYA.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kartochki/img/Ilya.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/profiles/img/Ilya.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kartochki/img/Ilya1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/profiles/img/Ilya1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kartochki/img/Ilya2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/profiles/img/Ilya2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kartochki/img/Ilya3.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/profiles/img/Ilya3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kartochki/img/ilya4.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/profiles/img/ilya4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kartochki/liza.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/profiles/liza.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,24 +26,25 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "xflame0xx"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;xflame0xx&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/elizansk/my_university_group",
-    "accountId": "cf5b7344-cb0b-447d-b1d5-070c9be16c89"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/elizansk/my_university_group&quot;,
+    &quot;accountId&quot;: &quot;cf5b7344-cb0b-447d-b1d5-070c9be16c89&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -46,10 +56,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Ilya.html.executor": "Run",
+    "JavaScript Debug.JENYA.html.executor": "Run",
+    "JavaScript Debug.home.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.liza.html.executor": "Run",
+    "Node.js.server.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "xflame0xx",
+    "git-widget-placeholder": "create__simple__server",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -61,6 +76,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/profiles" />
+      <recent name="$PROJECT_DIR$/public" />
       <recent name="C:\Users\user\WebstormProjects\my_university_group\kartochki\img" />
       <recent name="C:\Users\user\WebstormProjects\my_university_group" />
       <recent name="C:\Users\user\WebstormProjects\my_university_group\kartochki" />
