@@ -8,9 +8,9 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.get('/', (req, res) => res.sendFile(path.join(__dirname, 'public/index.html')));
 // Маршруты на каждую страницу
-app.get('/SnytkinIlya', (req, res) => res.sendFile(path.join(__dirname, 'public/profiles/Ilya.html')));
-app.get('/RozinEvgeny', (req, res) => res.sendFile(path.join(__dirname, 'public/profiles/JENYA.html')));
-app.get('/YakushElizaveta', (req, res) => res.sendFile(path.join(__dirname, 'public/profiles/liza.html')));
+app.get('/profiles/Ilya.html', (req, res) => res.sendFile(path.join(__dirname, 'public/profiles/Ilya.html')));
+app.get('/profiles/JENYA.html', (req, res) => res.sendFile(path.join(__dirname, 'public/profiles/JENYA.html')));
+app.get('/profiles/liza.html', (req, res) => res.sendFile(path.join(__dirname, 'public/profiles/liza.html')));
 
 // Запуск сервера
 app.listen(PORT, () => {

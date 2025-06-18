@@ -155,3 +155,48 @@ header {
     transform: scale(1.08);
     background: linear-gradient(135deg, #00ffc3, #aa67ff);
 }
+/* обновила шапку */
+.main-header {
+    text-align: center;
+    padding: 60px 20px;
+    background: rgba(0, 0, 0, 0.25);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    color: var(--text-white);
+    text-shadow: 0 0 8px rgba(0, 255, 255, 0.25);
+    border-bottom-left-radius: var(--radius-xl);
+    border-bottom-right-radius: var(--radius-xl);
+    box-shadow: var(--shadow-md);
+}
+
+.main-header h1 {
+    margin: 0;
+    font-size: 48px;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+
+.main-header p {
+    margin-top: 12px;
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--text-light);
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: #ffffff;
+    text-decoration: none; /* убрать подчеркивание */
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 20px;
+    width: 240px;
+    padding: 20px;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    animation: pulseGlow 5s infinite;
+    backdrop-filter: blur(6px);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
