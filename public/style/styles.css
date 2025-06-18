@@ -182,3 +182,21 @@ header {
     font-weight: 400;
     color: var(--text-light);
 }
+.card {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: #ffffff;
+    text-decoration: none; /* убрать подчеркивание */
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 20px;
+    width: 240px;
+    padding: 20px;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    animation: pulseGlow 5s infinite;
+    backdrop-filter: blur(6px);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
